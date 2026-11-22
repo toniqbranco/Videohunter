@@ -1,0 +1,1 @@
+export default function Home(){return <main style={{background:"#ddd",minHeight:"100vh",padding:24,fontFamily:"Arial"}}><h1>VIDEO HUNTER</h1><h2>GTA 6 Viral Factory</h2><p>Mobile dashboard preview</p><section style={{background:"#111",color:"#fff",padding:24}}>Dashboard online — AI engines coming soon</section></main>}
